@@ -18,7 +18,7 @@ It is done as teamwork with my colleagues.
 
 We design a secure file sharing application. That contains GUI application where a user has to log in with a username and password for sharing (to send a file or receive a file). Each user has a pair of a private and public keys. The sender use a symmetric key to encrypt the file using the AES algorithm, and the symmetric key was encrypted by using the RSA algorithm and the receiver's public key. For decryption, the receiver uses its own private key to decrypt the symmetric key using the RSA and then uses that symmetric key to decrypt the file using the AES. The project workflow is illustrated in the figure below.
 
-![image](https://user-images.githubusercontent.com/68460588/172827094-903c2478-4bbd-4d69-8862-44ebe77eea77.png)
+![image](https://user-images.githubusercontent.com/68460588/172827806-66f5bd81-002e-4c9b-ab82-33ab9d2ff4a1.png)
 
 
 ---
