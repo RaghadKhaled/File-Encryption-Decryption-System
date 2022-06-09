@@ -1,0 +1,3 @@
+Alice, b'$2b$12$AIjaz55bGJ6h9vnE1zafY.5fgi4QPqzbhc8G5c0ieOgpCA3.SfH2y'
+Bob, b'$2b$12$2ZQsOQph4h9lgUSopdlbD.meJpRqOaq.ffE86kVtN37gigBnXpoFa'
+Jan, b'$2b$12$63HWn3GdMZSwXuVsY29ufeVEfq.cEFEp.BH.xgmQbpEguCZYR01Gq'
